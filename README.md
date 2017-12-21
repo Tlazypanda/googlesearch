@@ -1,1 +1,2 @@
 # googlesearch
+This is a simple python script which opens the top search results in different tabs when searched in google.It makes use of BeautifulSoup for webscraping , request for downloading and webbrowser for opening the page.So kindly make sure you have all the modules imported and installed beforehand.Credits to 'Automate the Boring Stuff With Python' Where this is provided as a sample project.
